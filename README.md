@@ -31,16 +31,3 @@ Iftari/
 ├── Fonts/
 └── README.md
 ```
----
-
-## 🚀 Getting Started
-
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/BlenRamadan/Iftari.git
-   ```
-2. Open the .blend files in Blender (v3.x recommended).
-
-Ensure the Textures and Audio folders are linked correctly.
-
-Render the animation or customize the assets.
