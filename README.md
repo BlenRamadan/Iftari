@@ -22,7 +22,7 @@ The project includes `.blend` files, textures, audio, and fonts that come togeth
 ---
 
 ## 📁 Project Structure
-
+```
 Iftari/
 ├── Audio/
 ├── Blend files/
@@ -30,6 +30,7 @@ Iftari/
 ├── Labels/
 ├── Fonts/
 └── README.md
+```
 ---
 
 ## 🚀 Getting Started
